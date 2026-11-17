@@ -32,3 +32,6 @@ The ZIP file contains:
 
 ## Project Goal
 To analyze retail sales data, identify trends, and support better business decisions.ing Power BI, Excel, and SQL.
+## Dashboard Preview
+
+![Sales Performance Dashboard](dashboard.png)
